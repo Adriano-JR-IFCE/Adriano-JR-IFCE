@@ -1,16 +1,17 @@
-### Hi there 👋
+# Olá eu sou o Adriano 😀
 
-<!--
-**Adriano-JR-IFCE/Adriano-JR-IFCE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Dados Pessoais
+<pre>
+Nome: Adriano Pereira da Silva Júnior
+Profissao: Estudante
+Nivel de Escolaridade: Superior Incompleto
+Curso: Ciencia da Computacao - Bacharelado
+Instituicao: IFCE - Instituto Federal do Ceara - Campus Tiangua
+Email: ad.junior56@gmail.com
+</pre>
 
-Here are some ideas to get you started:
+## Estatisticas do GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adriano-Jr-IFCE&show_icons=true&theme=dark)
+
+## Certificados
