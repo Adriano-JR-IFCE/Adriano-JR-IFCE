@@ -44,4 +44,11 @@ Certificado de Atividade Organizativa - Credenciameto - <a href="https://github.
 ### ETIB 2023
 Certificado de Atividade Organizativa - <a href="https://github.com/Adriano-JR-IFCE/Certificados/blob/main/Etib%202023%20v-8/%5BCERTIFICADO%5D%20Organizador%20Etib%20-%2010_2023%20-%20Adriano%20Pereira%20da%20Silva%20J%C3%BAnior.pdf">Clique aqui para visualizar o certificado</a> - IFCE<br>
 
-Certificado de Participação - <a href="https://github.com/Adriano-JR-IFCE/Certificados/blob/main/Etib%202023%20v-8/%5BCERTIFICADO%5D%20Participacao%20Etib%20-%2010_2023%20-%20Adriano%20Pereira%20da%20Silva%20J%C3%BAnior.pdf">Clique aqui para visualizar o certificado</a> - IFCE<br>
+Certificado de Participação ETIB 23- <a href="https://github.com/Adriano-JR-IFCE/Certificados/blob/main/Etib%202023%20v-8/%5BCERTIFICADO%5D%20Participacao%20Etib%20-%2010_2023%20-%20Adriano%20Pereira%20da%20Silva%20J%C3%BAnior.pdf">Clique aqui para visualizar o certificado</a> - IFCE<br>
+
+Certificado de Atividade - Tecnologia e Negócios de Impacto - <a href="https://github.com/Adriano-JR-IFCE/Certificados/blob/main/Etib%202023%20v-8/%5BCERTIFICADO%5D%20Tecnologia%20e%20negocios%20de%20impacto%20-%2010_2023%20-%20Adriano%20Pereira%20da%20Silva%20J%C3%BAnior.pdf">Clique aqui para visualizar o certificado</a> - IFCE<br>
+
+
+Certificado de Atividade - Carreira e Transformação digital: Como a Mentoria pode te ajudar na carreira? - <a href="https://github.com/Adriano-JR-IFCE/Certificados/blob/main/Etib%202023%20v-8/%5BCERTIFICADO%5D%20Carreira%20e%20transformacao%20digital%20-%2010_2023%20-%20Adriano%20Pereira%20da%20Silva%20J%C3%BAnior.pdf">Clique aqui para visualizar o certificado</a> - IFCE<br>
+
+Certificado de Atividade - Breve histórico das redes neurais ... até hoje - <a href="https://github.com/Adriano-JR-IFCE/Certificados/blob/main/Etib%202023%20v-8/%5BCERTIFICADO%5D%20Breve%20historico%20das%20redes%20neurais%20ate%20hoje%20-%2010_2023%20-%20Adriano%20Pereira%20da%20Silva%20J%C3%BAnior.pdf">Clique aqui para visualizar o certificado</a> - IFCE<br>
