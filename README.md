@@ -43,3 +43,5 @@ Certificado de Atividade Organizativa - Credenciameto - <a href="https://github.
 
 ### ETIB 2023
 Certificado de Atividade Organizativa - <a href="https://github.com/Adriano-JR-IFCE/Certificados/blob/main/Etib%202023%20v-8/%5BCERTIFICADO%5D%20Organizador%20Etib%20-%2010_2023%20-%20Adriano%20Pereira%20da%20Silva%20J%C3%BAnior.pdf">Clique aqui para visualizar o certificado</a> - IFCE<br>
+
+Certificado de Participação - <a href="https://github.com/Adriano-JR-IFCE/Certificados/blob/main/Etib%202023%20v-8/%5BCERTIFICADO%5D%20Participacao%20Etib%20-%2010_2023%20-%20Adriano%20Pereira%20da%20Silva%20J%C3%BAnior.pdf">Clique aqui para visualizar o certificado</a> - IFCE<br>
